@@ -1,3 +1,4 @@
+
 # Container Stacking Optimization at the Port of Oran
 
 **MSc Thesis — Industrial Engineering & Logistics**
@@ -65,8 +66,7 @@ This project investigated stacking logic and yard layout alternatives to minimiz
 
 ## 📂 Deliverables
 
-* 📄 Full thesis (PDF) — [**Download Here**](https://raw.githubusercontent.com/djalilben-ship-it/PORT-Container-Stacking/main/Container_Stacking_Thesis.pdf.pdf
-.pdf)
+* 📄 Full thesis (PDF) — [**Download Here**](https://raw.githubusercontent.com/djalilben-ship-it/PORT-Container-Stacking/main/Container_Stacking_Thesis.pdf)
 * Arena model & simulation files (on request)
 * Power BI dashboard screenshots
 * Implementation SOPs & layout diagram
