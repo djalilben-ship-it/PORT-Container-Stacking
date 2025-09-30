@@ -7,13 +7,13 @@ Djalil Ben Hamla — Ecole Supérieure des Sciences Appliquées de Tlemcen (ESSA
 
 ---
 
-## 📄 Abstract
+##  Abstract
 
 This project applies Lean methods and discrete-event simulation (Arena) to optimize container stacking and yard operations at the Port of Oran. The aim was to reduce crane re-handles, lower container dwell time, and increase throughput by redesigning stacking logic and yard layout. The thesis demonstrates measurable improvements in handling efficiency and waiting times through redesigned stacking rules and operational standards.
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Container yards at ports often suffer from inefficient stacking strategies, causing:
 
@@ -26,7 +26,7 @@ This project investigated stacking logic and yard layout alternatives to minimiz
 
 ---
 
-## 🚀 Objectives
+##  Objectives
 
 * Reduce crane re-handling moves.
 * Decrease container dwell time.
@@ -35,7 +35,7 @@ This project investigated stacking logic and yard layout alternatives to minimiz
 
 ---
 
-## 🧭 Methodology
+##  Methodology
 
 1. **Process mapping & value-stream analysis** (Lean)
 2. **Data collection**: yard flows, arrival schedules, crane moves, container types
@@ -46,7 +46,7 @@ This project investigated stacking logic and yard layout alternatives to minimiz
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 * **~30% reduction** in crane re-handles in the optimized scenario
 * Significant **reduction in container dwell time** (exact % from thesis)
@@ -55,7 +55,7 @@ This project investigated stacking logic and yard layout alternatives to minimiz
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * **Arena Simulation** (Discrete-event simulation)
 * **Excel** (data processing & scenario inputs)
@@ -64,7 +64,7 @@ This project investigated stacking logic and yard layout alternatives to minimiz
 
 ---
 
-## 📂 Deliverables
+##  Deliverables
 
 * 📄 Full thesis (PDF) — [**Download Here**](https://raw.githubusercontent.com/djalilben-ship-it/PORT-Container-Stacking/main/Container_Stacking_Thesis.pdf)
 * Arena model & simulation files (on request)
@@ -73,30 +73,53 @@ This project investigated stacking logic and yard layout alternatives to minimiz
 
 ---
 
-## 📸 Visuals
+##  Visuals
 
-*(Upload your images to an `/images` folder in the repo, then update the links below)*
 
-* Arena simulation:
-  ![Arena Simulation](./images/arena-simulation.png)
 
-* Yard layout diagram:
-  ![Yard Layout](./images/yard-layout.png)
 
-* Power BI dashboard:
-  ![Power BI Dashboard](./images/powerbi-dashboard.png)
+* Yard optimization:  
+  ![Yard Optimization](./images/yard_optimization.png)
+
+
+* Algorithm:  
+  ![Algorithm](./images/ALGORITHM.png)
+
+
+* Database creation:  
+  ![Database Creation](./images/DATA_BASE_CREATION.png)
+
+
+
+* Stacking function:  
+  ![Stacking Function](./images/STOKING_FONCTION.png)
+
+
+
+* Exit function:  
+  ![Exit Function](./images/EXIT_FONCTION.png)
+
+
+
+* Position optimization:  
+  ![Position Optimization](./images/POSITION_OPTIMAZATION.png)
+
+
+
+* Real-time database update:  
+  ![Real-time Database Update](./images/REAL_TIME_DATA_BASE_UPDATE.png)
+
+
+
+##  Video / Demo
+
+
+
+[![EXAMPLE FOR ELUSTRATION](https://img.youtube.com/vi/<YOUTUBE_ID>/0.jpg)](https://www.youtube.com/watch?v=DQM-4yZVe0c)
 
 ---
 
-## ▶️ Video / Demo
-
-*(Replace `<YOUTUBE_ID>` with your video ID if you have one)*
-
-[![Thesis Presentation](https://img.youtube.com/vi/<YOUTUBE_ID>/0.jpg)](https://www.youtube.com/watch?v=<YOUTUBE_ID>)
-
----
-
-## 📋 Implementation Roadmap
+##  Implementation Roadmap
 
 1. Pilot new stacking logic in one yard zone for 4 weeks.
 2. Monitor KPIs (dwell time, re-handles, crane idling).
@@ -105,7 +128,7 @@ This project investigated stacking logic and yard layout alternatives to minimiz
 
 ---
 
-## 🤝 Contact
+##  Contact
 
 📧 Email: [djalilb18896@gmail.com](mailto:djalilb18896@gmail.com)
 🔗 LinkedIn: [linkedin.com/in/djalil-ben-h](https://linkedin.com/in/djalil-ben-h)
